@@ -5,5 +5,8 @@ a lot of led animation for Codebug that i realized. format: .cbg .js .py
 
 </BR>
 
-<iframe width="1000px" height="600px" src="http://www.codebug.org.uk/iframe/codebug/create/?fork_from=YnynZGioKmnpjD7JVYpGJc" frameborder="0"></iframe>
+<h3>a Born of a Circle</h3>
 
+http://www.codebug.org.uk/explore/codebug/YnynZGioKmnpjD7JVYpGJc/a-born-of-circle/
+
+</BR>
