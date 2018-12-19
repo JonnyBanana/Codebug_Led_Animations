@@ -1,7 +1,14 @@
 # Codebug_Led_Animations
 a lot of led animation for Codebug that i realized. format: .cbg and .py
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/codebug.png)
+
+
+
+<h2>Demo on LIne</h2>
+
+It is possible to try the code directly in the codebug site, here is a list of the various scripts:
+
+![Alt text](https://media.giphy.com/media/1hMgA3XGdxiOqRUhoE/giphy.gif)
 
 </BR>
 
