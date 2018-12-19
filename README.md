@@ -1,7 +1,7 @@
 # Codebug_Led_Animations
 a lot of led animation for Codebug that i realized. format: .cbg and .py
 
-
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/codebug.png)
 
 
 <h2>Demo on LIne</h2>
