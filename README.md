@@ -135,6 +135,6 @@ http://www.codebug.org.uk/explore/codebug/3TYpsj4qGYVPfUByWVo4UQ/the-fibonacci-s
 
 
 
-![Alt text](https://media.giphy.com/media/Ym6vpWq2m0PWH7HSkj/giphy.gif)
+![Alt text](https://giphy.com/gifs/Ym6vpWq2m0PWH7HSkj/html5)
 
 
