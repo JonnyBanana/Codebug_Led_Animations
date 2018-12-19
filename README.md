@@ -1,13 +1,15 @@
 # Codebug_Led_Animations
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/cb.jpg) 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/codebug.png)
+
 
 A lot of led animation for Codebug that i realized. 
 
 format: .cbg and .py
 
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/codebug.png)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/cb.jpg) 
+
 
 
 <h2>Demo on Line</h2>
