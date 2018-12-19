@@ -1,6 +1,8 @@
 # Codebug_Led_Animations
 A lot of led animation for Codebug that i realized. 
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/cb.jpg)
+
 format: .cbg and .py
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Codebug_Led_Animations/master/IMG/codebug.png)
