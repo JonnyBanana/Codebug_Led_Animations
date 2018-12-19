@@ -10,7 +10,8 @@ format: .cbg and .py
 
 It is possible to try the code directly in the codebug site, here is a list of the various scripts:
 
-![Alt text](https://media.giphy.com/media/1hMgA3XGdxiOqRUhoE/giphy.gif)
+
+![Alt text](https://github.com/JonnyBanana/Codebug_Led_Animations/blob/master/IMG/giphy.gif)
 
 </BR>
 
@@ -133,8 +134,9 @@ http://www.codebug.org.uk/explore/codebug/3TYpsj4qGYVPfUByWVo4UQ/the-fibonacci-s
 
 </BR>
 
+![Alt text](https://media.giphy.com/media/1hMgA3XGdxiOqRUhoE/giphy.gif)
 
+</BR>
 
-![Alt text](https://github.com/JonnyBanana/Codebug_Led_Animations/blob/master/IMG/giphy.gif)
 
 
