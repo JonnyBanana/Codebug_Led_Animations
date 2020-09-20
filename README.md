@@ -153,3 +153,4 @@ http://www.codebug.org.uk/explore/codebug/3TYpsj4qGYVPfUByWVo4UQ/the-fibonacci-s
 <img src="https://golden-farm.biz/images/promo/en/728x90.gif"
 alt="Profit every 10 minutes!"></a>
 
+
